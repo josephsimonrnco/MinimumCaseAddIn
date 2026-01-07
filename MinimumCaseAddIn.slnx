@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FunctionsExternal/FunctionsExternal.csproj" />
+  <Project Path="MinimumCaseAddIn/MinimumCaseAddIn.csproj" />
+</Solution>
