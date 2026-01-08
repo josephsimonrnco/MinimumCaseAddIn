@@ -4,6 +4,8 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<ExcelAddInExports>FunctionsExternal.dll</ExcelAddInExports>
+	<ExcelAddInExplicitRegistration>true</ExcelAddInExplicitRegistration>
   </PropertyGroup>
 
   <ItemGroup>
